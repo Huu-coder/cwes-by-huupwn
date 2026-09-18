@@ -6,7 +6,7 @@ Năm sau mình đặt mục tiêu tham gia một giải CTF, và mình quyết �
 
 ## Giới thiệu
 
-Mình đến với an ninh mạng gần như tình cờ — nghịch các module miễn phí của HTB Academy vì tò mò, rồi bị cuốn vào cảm giác "aha" khi tìm ra được một exploit hoạt động. Mình không có chứng chỉ nào trước đó, không có kinh nghiệm làm việc chuyên nghiệp, cũng chẳng có mối quan hệ nào trong ngành. Thứ mình có là rất nhiều thời gian rảnh vì còn là học sinh, và một niềm đam mê thật sự với web exploitation.
+Mình đến với an ninh mạng gần như tình cờ — nghịch các module miễn phí của HTB Academy vì tò mò (một phần cũng hẻm có n.yêu :> ), rồi bị cuốn vào cảm giác khá là thích thú khi tìm ra được một exploit hoạt động. Mình không có chứng chỉ nào trước đó, không có kinh nghiệm làm việc chuyên nghiệp, cũng chẳng có mối quan hệ nào trong ngành. Thứ mình có là rất nhiều thời gian rảnh vì còn là học sinh, và một niềm đam mê thật sự với web exploitation (và hacking nói chung).
 
 Mình thích chứng chỉ vì chúng là bằng chứng cụ thể cho kiến thức — một cách để chứng minh với chính mình (và sau này là với người khác) rằng kỹ năng là thật, kể cả khi chưa có một bản CV dày kinh nghiệm làm việc.
 
@@ -83,6 +83,8 @@ Hãy kiểm tra trang thanh toán của HTB để biết giá hiện tại.
 2. **Làm lại các bài đánh giá kỹ năng trước kỳ thi.** Quay lại giải lại các bài tập cuối module, và lướt qua tài liệu học một lần nữa để bạn có thể tra cứu nhanh khi áp lực thời gian. Bạn *sẽ* phải lật lại nội dung khóa học trong kỳ thi để tìm ý tưởng.
 3. **Tìm thêm cơ hội thực hành bên ngoài.** Chỉ riêng các module là chưa đủ — thời gian dành cho các máy trên nền tảng chính của HTB là vô giá. Bản thân mình chưa hoàn thành lộ trình Bug Bounty Hunter, nhưng nó có vẻ là một nơi thực hành khai thác thủ công rất tốt, và khai thác thủ công chính là kỹ năng mà một giải CTF sẽ kiểm tra.
 4. **Chọn lọc kỹ tài nguyên bổ sung.** Mình đã học qua một phần lộ trình CPTS của IppSec, và dù nó khá hay, nó không thực sự liên quan lắm đến đây. Hãy tìm những máy đòi hỏi khai thác web thủ công, chứ không phải các exploit công khai cho phần mềm lỗi thời — đó mới chính là bộ kỹ năng mà cả CWES lẫn giải CTF năm sau đều đánh giá cao.
+
+*Date: 19-09-26*
 
 ***Lưu ý về việc sử dụng AI:*** *Mình tự viết bài này. Mình đã dùng Claude (Anthropic) để chỉnh sửa đáng kể về ngữ pháp, cách dùng từ và cấu trúc câu; nội dung kỹ thuật và mọi nhận định đều là của mình.*
 
