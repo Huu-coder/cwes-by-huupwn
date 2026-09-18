@@ -44,7 +44,7 @@ Honestly, some parts of the exam were *much* harder than anything in the modules
 
 ### The Exam's Downside
 
-Seven days is a long stretch. I ended up scheduling mine over the New Year holidays to avoid taking time off work — not exactly a restful way to spend the break, and mentally draining while everyone else is off relaxing. I'd argue the timeline (and possibly the task count) could be trimmed.
+Seven days is a long stretch. I ended up scheduling mine over the summer break holidays to avoid taking time off work — not exactly a restful way to spend the break, and mentally draining while everyone else is off relaxing. I'd argue the timeline (and possibly the task count) could be trimmed.
 
 It's also worth being upfront: without experience on machines outside the official modules, the exam is genuinely tough. The course theory alone isn't quite enough.
 
