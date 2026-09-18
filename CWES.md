@@ -66,8 +66,6 @@ I used **Sysreptor** to write mine, and it made the process much easier. It auto
 
 Writing the report took me 5–6 hours. I slept on it and reviewed everything with fresh eyes the next morning. HTB's grading SLA is up to 20 business days.
 
-**Update:** I submitted my report at noon on January 7th and got the passing result the evening of January 9th — just over two days for the review.
-
 ## Cost
 
 As of early 2026, there are two main ways to pay:
