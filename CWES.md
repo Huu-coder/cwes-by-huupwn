@@ -86,3 +86,5 @@ Check HTB's billing page for current pricing.
 ***Note about AI usage:*** *I wrote this article myself. I used Claude (Anthropic) to significantly refine the grammar, wording, and sentence structure; the technical content and all claims are my own.*
 
 ***Note:*** *If you want some of my CWES write-up, pls contact me [here](https://www.facebook.com/profile.php?id=61553341873402)*
+
+*Date: 19-09-26*
