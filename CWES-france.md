@@ -85,3 +85,5 @@ Consultez la page de facturation de HTB pour connaître les tarifs actuels.
 ***Note sur l'utilisation de l'IA :*** *J'ai écrit cet article moi-même. J'ai utilisé Claude (Anthropic) pour peaufiner significativement la grammaire, le choix des mots et la structure des phrases ; le contenu technique et toutes les affirmations sont miens.*
 
 ***Note :*** *Si vous souhaitez consulter une partie de mon write-up CWES, contactez-moi [ici](https://www.facebook.com/profile.php?id=61553341873402)*
+
+*Date : 19-09-26*
